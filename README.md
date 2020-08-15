@@ -7,7 +7,8 @@
 [![Buy me a Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-green.svg)](https://www.buymeacoffee.com/NIUeF95)
 
 Node.js Media Server / VOD / HLS / DRM
-
+## Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameyjir/node-media-server)
 ## Installation
 
 ```bash
