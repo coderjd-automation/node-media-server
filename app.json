@@ -1,0 +1,7 @@
+{
+  "name": "Node Media Server",
+  "description": "A node.js app to make a HLS VOD playlists of viseo files",
+  "repository": "https://github.com/ameyjir/node-media-server",
+  "logo": "https://i.imgur.com/tpPKkk9.png",
+  "keywords": ["node", "HLS", "Media Server"]
+}
