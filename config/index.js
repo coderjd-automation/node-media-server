@@ -6,7 +6,7 @@ const logrotate = require('logrotate-stream');
 
 // Configuration
 const config = {
-    host: 'videncoder',
+    host: 'https://nodejdcoder.herokuapp.com/',
     port: 8080,
 
     publicPath: path.resolve('./public'),
